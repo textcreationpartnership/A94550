@@ -1,0 +1,528 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Kings most Excellent Maiesty. The humble remonstrance and declaration of the high sheriffe, your majesties iustices of the peace, and gentlemen of the grand iury of the county of Essex whose names are here subscribed, being assembled at this present assizes holden at Chelmsford this 18. day of Iuly, 1642. Vnto which is annexed the resolution of the gentry of Lincolne.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94550</idno>
+            <idno type="STC">Wing T1548</idno>
+            <idno type="STC">Thomason 669.f.5[66]</idno>
+            <idno type="STC">ESTC R210977</idno>
+            <idno type="EEBO-CITATION">99869721</idno>
+            <idno type="PROQUEST">99869721</idno>
+            <idno type="VID">160779</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94550)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160779)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f5[66])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Kings most Excellent Maiesty. The humble remonstrance and declaration of the high sheriffe, your majesties iustices of the peace, and gentlemen of the grand iury of the county of Essex whose names are here subscribed, being assembled at this present assizes holden at Chelmsford this 18. day of Iuly, 1642. Vnto which is annexed the resolution of the gentry of Lincolne.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>for Thomas Bankes and William Ley,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Order to print dated and signed: Die Lune 10. Augusti 1642. Ordered that the note of armes sent for by the King from Amsterdam be printed. H. Elsinge, Cler. Parl. D. Com.</note>
+                  <note>Thanking the King for his resolution to protect the Protestant religion, rights of Parliament, and liberty of subjects: signed by 32 persons. The Lincoln gentry in raising 168 horse put them at the disposal of His Majesty within the county for three months after 20 July.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Essex (England) --  Early works to 1800.</term>
+               <term>Lincoln (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:160779:1" rendition="simple:additions"/>
+            <head>To the KINGS Moſt Excellent Maieſty.</head>
+            <head type="sub">The humble Remonſtrance and Declaration of the High Sheriffe, your Majeſties Iuſtices of the Peace, and Gentlemen of the Grand Iury of the County of Eſſex, whoſe Names are here ſubſcribed, being Aſſembled at this preſent Aſſizes holden at <hi>Chelmsford</hi> this 18. day of <hi>Iuly,</hi> 1642. Vnto which is an<g ref="char:EOLhyphen"/>nexed the Reſolution of the Gentry of Lincolne.</head>
+            <p>MOſt grations Soveraigne, we being fully aſſured of your Majeſties pious and reall intentions, expreſſed in your ſeverall Declarations, as alſo in a late Letter directed unto Sir <hi>Thomas Malet</hi> Knight, Your Majeſties Iudge of Aſſize for this County, and by him to us publiſhed, manifeſting Your moſt Chriſtian and zealous Reſolution to maintaine the true Proteſtant Religion in the purity thereof againſt the practiſes of Papiſts, and the inſolencies of the Secturies; Your conſtant purpoſe to uphold the Laws of this Your Kingdome, and in them the Rights and Priviledges of Parliament, the Liberty of Your Subjects in the freedome of their Perſons, and propriety of their Eſtates not to infringe any Act conſented unto by Your Majeſtie this Parliament</p>
+            <p>In full and aſſured confidence of Your Majeſties juſt obſervation thereof, wee Your Majeſties moſt loyall and obedient Subjects, doe render all duty and thankfulneſſe, and doe aſſure and faithfully promiſe, That for the ſafety of Your Majeſties moſt Royall Perſon and poſterity, defence of Your Rights, and juſt Prerogatives we will be ready according to our Faith, Allegiance, and late Proteſtation, to aſſiſt Your Majeſty with our Perſons, Lives and Fortunes whenſoever You ſhall be pleaſed to command us.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <head>Subſcribed by</head>
+                     <item>Robert Smith <hi>Vic.</hi>
+                     </item>
+                     <item>Tho. Bendiſh</item>
+                     <item>Ben. Ayloffe.</item>
+                     <item>Will. Wyſeman.</item>
+                     <item>Thomas Wyſeman.</item>
+                     <item>Hen. Myldemay,</item>
+                     <item>Gam. Capell.</item>
+                     <item>Io. Terell.</item>
+                     <item>Frances Cooke.</item>
+                     <item>Iohn Lucas.</item>
+                     <item>Robert Kempe.</item>
+                     <item>Ia Altham.</item>
+                     <item>Ar. Turner.</item>
+                     <item>Io. Greene.</item>
+                     <item>Olever Raymond.</item>
+                     <item>William Conniers.</item>
+                     <item>William Toppesfield.</item>
+                     <item>Io. Harvie.</item>
+                     <item>William Lynne.</item>
+                     <item>Robert Wiſeman.</item>
+                     <item>Thomas Bayles.</item>
+                     <item>Euſeby Wright.</item>
+                     <item>Francis Gardner.</item>
+                     <item>Ia. Hernes</item>
+                     <item>Ed. Eltonhead.</item>
+                     <item>Ed. Benl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wes.</item>
+                  </list> 
+                  <list>
+                     <head>Grand Iury.</head>
+                     <item>William Ayloffe.</item>
+                     <item>Henry Cletherowe.</item>
+                     <item>Thomas Manwood.</item>
+                     <item>Iohn Aylett.</item>
+                     <item>Vrias Barker.</item>
+                     <item>William Glaſcock.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="resolution">
+            <head>The Reſolution of the Gentry of Lincoln, in ſetting forth 168. Horſe, whoſe names are ſubſcribed.</head>
+            <p>WHereas both the Houſes of Parliament have Voted a neceſſity of putting the Kingdome into a poſture of Warre, for the ſuppreſſing of any Inſurrection within, or Foces from without; and have (by their example and acceptance of others offers to maintaine Horſe and Foot armed for that purpoſe) given us, whoſe Names are here under written, occaſion (conſidering the preſent diſtractions amongſt us) to undertake to maintaine and have in readineſſe ſuch number of Horſe furniſhed fit for Warre, as wee doe here ſubſcribe to, for the maintenance and defdnce of his Majeſties juſt Prerogative, the Proteſtant Religion, as it is now eſtab<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſhed; the Lawes of the Realme, the juſt priviledges of Parliament, and the publike peace, againſt all oppoſition whatſoever: And the ſaid Horſe to be diſpoſed of within the County for three moneths after the 20. of this inſtant <hi>Iuly;</hi> at ſuchtime, and in ſuch way as his Majeſty ſhall by his Commiſſion direct.</p>
+            <p>
+               <table>
+                  <head>HORSES.</head>
+                  <row>
+                     <cell>F. Fane.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Per<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>greene Barty.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Iohn Mounſon.</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Edward Huſſey.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Geo. Henneage.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Iohn Bolles.</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>William Petham.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>William Therold.</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>Charles Huſſey.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Daniel Deligne.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Robert Therold.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Gervis Scroope.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Gervis Nevill.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Iohn Burrill.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Chriſtopher Berrisford.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Kobert Tredway.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Ralph Ewere.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Edmund Ellis.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Arthur Redhead.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>George Walker.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Huſtwait Wright.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>William Stone.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>William Langton.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Iohn Formery.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Charles Bolles.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Charles D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lliſon.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Antho. Meres.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>William Saltmarſh.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Stephen Anderſon.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Thomas Ogle.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Thomas Read.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>George Bradley.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>William Quadring.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>William Cony.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>William Tirwhitt.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Robert Terwhitt.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Edward Heron.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Thomas Monſon.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Robert Markham.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Robert Bolles.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Thomas Rands.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Io. Collumbell.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Iohn Stutt.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Thomas Harrington.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>William Dalliſon.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Chriſtopher Berisford.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>N. Smith.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Iohn Oldfield.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Adrian May.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Edward Tourney.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Anthony Butler.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Antho. Topham.</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Hamlet Marſhall.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Rob. Meeres.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Morgan Winne.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Thomas Hurſt.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Rob. Sanderſon.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Robert Haſſewood.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Adam Cranwell.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Stephen Primatt.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Thomas Hirſt.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Charles Harrington.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Henry Pigg.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Davy Williamſon.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Iohn Chappell.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>William Welby.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Edw. Mildemore.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>W: Deſney.</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>Fran: Welby.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Iohn South.</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>Henry Fenes.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Robert Metham.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Rich: Parke.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Rich: Fancoarts.</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Mount Cholmley.</cell>
+                     <cell>1</cell>
+                  </row>
+               </table>
+            </p>
+            <div type="note">
+               <head>A Note of the Armes ſent for by the King from Amſterdam.</head>
+               <lg>
+                  <head>C. R.</head>
+                  <l>TWo hundred Firelocks.</l>
+                  <l>Foure pieces of Cannon for Battry: <hi>viz.</hi>
+                  </l>
+                  <l>One cannon.</l>
+                  <l>One Demi-Cannon.</l>
+                  <l>Two whole Culverin,</l>
+                  <l>Two Mortars.</l>
+                  <l>Foure Petards.</l>
+                  <l>Ten Field-peices of ſixe pound Bullet mounted.</l>
+                  <l>One hundred Barrells of powder.</l>
+                  <l>Round ſhot and caſe proportioned to the ſeverall pei<g ref="char:EOLhyphen"/>ces.</l>
+                  <l>Two thouſand paire of piſtolls.</l>
+                  <l>One Thouſand Carabins.</l>
+                  <l>Three Thouſand Saddles.</l>
+                  <l>Three thouſand Muſquets.</l>
+                  <l>One Thouſand Pikes.</l>
+               </lg>
+               <lg>
+                  <l>Iran de gerre a Amſterdam &amp; Bartholetti.</l>
+                  <l>Agent de la langravine de Hen. Wickford.</l>
+               </lg>
+               <closer>
+                  <dateline>
+                     <date>Die Lune 10. Auguſti 1642.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>Ordered that the Note of Armes ſent for by the King from Amſterdam be printed.</hi>
+            </p>
+            <closer>
+               <signed>H. Elfigne,
+Cler. Parl. D. Com</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>Printed at <hi>London,</hi> for <hi>Thomas Bankes</hi> and <hi>William Ley.</hi> 1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
